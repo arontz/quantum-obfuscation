@@ -43,6 +43,6 @@ Instead of using photons **only** as quantum keys (like in QKD), this idea propo
 
 ## Credits
 
-**Concept by:** Baharun a.k.a. `arontz`  
+**Concept by:** Baharun a.k.a. `arontz/rontzo`  
 **Posted for open collaboration and inspiration.**  
 *“Not for profit. Just for progress.”*
