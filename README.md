@@ -41,6 +41,11 @@ Instead of using photons **only** as quantum keys (like in QKD), this idea propo
 
 ---
 
+## Just a Thought from a Curious Mind
+
+> I’m not a quantum physicist — just a backend dev with a deep love for security.  
+> This idea might be wild, but who knows? Maybe it sparks something real.
+
 ## Credits
 
 **Concept by:** Baharun a.k.a. `arontz/rontzo`  
